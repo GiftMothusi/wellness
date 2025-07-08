@@ -13,7 +13,7 @@ A clean, minimalist landing page for a wellness meditation app called **Serenity
 
 ## Design Preview
 
-![Serenity Landing Page](screenshot.png)
+![Serenity Landing Page](wellness.png)
 
 The landing page showcases:
 - Hero section with compelling headline and subtext
